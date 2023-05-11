@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CadastrarPonto</string>
+    <string name="solicite_coleta">Solicite uma coleta</string>
+    <string name="formulario">Formulário para solicitar uma coleta</string>
+    <string name="primeiro">Selecione o local da coleta</string>
+    <string name="segundo">Selecione os materiais que serão recolhidos</string>
+    <string name="foto_tela"></string>
+</resources>
